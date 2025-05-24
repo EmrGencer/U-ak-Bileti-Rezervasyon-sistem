@@ -1,1 +1,0 @@
-# U-ak-Bileti-Rezervasyon-sistem
